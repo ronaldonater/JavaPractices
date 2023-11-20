@@ -1,4 +1,3 @@
-Good Practices within Java
 This repository contains Java classes demonstrating good practices in object-oriented programming, focusing on class design, encapsulation, and methods implementation. The repository includes the following files:
 
 Files Included:
